@@ -1,0 +1,8 @@
+first_name = input("What is your first name?")
+last_name = input("What is your last name?")
+age = input("What is your age in years?")
+partial_year_age = input("How many months has it been since your birthday?")
+birth_month = input("What is your birth month?")
+birth_month_day = input("What is your birth month day?")
+birth_year = input("What is your birth year?")
+xbox = input("What is the current price of an Xbox Series X?")
